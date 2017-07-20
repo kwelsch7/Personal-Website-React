@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "jsx": "react",
+        "noImplicitAny": true,
+        "outDir": "./dist/",
+        "pretty": true,
+        "strict": true,
+        "target": "es5"
+    }
+}
